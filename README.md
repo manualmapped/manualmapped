@@ -1,7 +1,7 @@
 Hi 👋 My name is manualmapped  
 ========================================
 
-I'm a Software Engineer with a great passion for reverse engineering, vulnerability research, and security mechanisms. With more than **5** years of experience working with **C++** and **2+ years scratching the surface of assembly language, disassembling, and debugger**, understanding how complex systems operate and what gets analyzed in compiled binaries. I have been doing a lot of examination of software and fixing flaws and providing reverse engineering and prevention against malicious endeavors. 
+I'm a Software Engineer with a great passion for reverse engineering, vulnerability research, and security mechanisms. With more than **6** years of experience working with **C++** and **3+ years scratching the surface of assembly language, disassembling, and debugger**, understanding how complex systems operate and what gets analyzed in compiled binaries. I have been doing a lot of examination of software and fixing flaws and providing reverse engineering and prevention against malicious endeavors. 
 
 My entry into reverse-engineering came from a fascination with how stuff works at a low level, particularly compiled code. Throughout the years, the practice has sprouted with deep interests under the hood of software. I worked with **IDA Pro**, **x64dbg**, and **Ghidra** for very heterogeneous applications, malware hunting, and research of protection techniques. 
 
