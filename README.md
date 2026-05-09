@@ -1,51 +1,77 @@
-Hi 👋 My name is manualmapped  
-========================================
+Hi, i'm manualmapped
 
-I'm a Software Engineer with a great passion for reverse engineering, vulnerability research, and security mechanisms. With more than **6** years of experience working with **C++** and **3+ years scratching the surface of assembly language, disassembling, and debugger**, understanding how complex systems operate and what gets analyzed in compiled binaries. I have been doing a lot of examination of software and fixing flaws and providing reverse engineering and prevention against malicious endeavors. 
+I am a low level developer with focus on C++ (systems programming), assembly (x86 / x64) and binary analysis. In addition to developing high performance software i also do defensive security research for making software robust.
 
-My entry into reverse-engineering came from a fascination with how stuff works at a low level, particularly compiled code. Throughout the years, the practice has sprouted with deep interests under the hood of software. I worked with **IDA Pro**, **x64dbg**, and **Ghidra** for very heterogeneous applications, malware hunting, and research of protection techniques. 
+---
 
-### 🌟 **Core Areas of Expertise:**
+## technical Experience
 
-- **Low-Level Programming & Software Development**:  
-Writing and dissecting native code that focuses on ensuring high performance, managing the memory, and interacting with the system in a considerate manner. 
+| area | years of Experience |
+| ---------------------------- | --------------------------------------------- |
+| c++ | > 5 years - systems programming, Memory management, multithreaded, optimize. |
+| x86/x64 assembly | > 2 years - debugging, low level analysis, Compiler output analysis. |
+| binary analysis | static and dynamic analysis, debugging, runtime inspection. |
+| security research | Vulnerability analysis, hardening, defensive research. |
+| windows internals | PE format, loader internals, Process structure/runtime behavior. |
 
-- **Reverse Engineering**:  
-This is my strong suit; I skillfully use **disassemblers** & **debuggers** for software analysis, presenting vulnerability, and understanding application workings.
+---
 
-- **Malware Analysis & Vulnerability Discovery**:  
-My pastime activities revolve around recognizing **malware code**, any **exploits** present therein, and anything else associated with **vulnerability** operations. I use my outputs to advocate secure software development against attacks.
+## focus areas
 
-- **Security Mechanisms Application**:  
-I build secure mechanisms in anti-reverse engineering, anti-debugging pursuit to cripple tamperings. Some of the methods I use are of high caliber; I can defend software app even against hostile situations on the go. In addition, I specialize in, but am not limited to:
+### systems programming
+Native windows applications/libraries.
+Performance critical software.
+Memory management/runtime behavior.
+Compiler/linker behavior.
+PE format/loader internals.
+Process/thread internals.
 
-- **Software Obfuscation**: Shielding application code against unequivocation.
-- **Debug-Detecting Techniques**: Low-Level Techniques for preventing debugging and runtime manipulation.
-- **Guarding Against Injections**: Dealing with all types of injections, including function and code tracing.
-- **File Handle Injection**: Using Operating System capabilities to perform file handling injections.
+### binary analysis & debugging
+Static/dynamic analysis.
+Binary instrumentation.
+Disassembling/debugging.
+Compiler output analysis.
+Utility tooling/native utilities.
+Educational low-level research.
 
-- **Self Protection**: Guarding against tampering from the file level down to the kernel-level to prevent any other software from being injected into the target software and then altering its functionality.
+### defensive security research
+Software hardening.
+Integrity verification.
+Anti-tampering research.
+Debugging protection mechanisms.
+Code protection research.
+Vulnerability analysis.
+Secure design practices.
 
-### 🛡️ **Protection & Anti-Reverse Engineering Techniques**:
+---
 
-I have prepared a toolkit of protection techniques and kept up-to-date on the best means to prevent software from being tampered with when reversing and debugging. The incomparable techniques range from simple checks to highly advanced methods, thereby ensuring software security even when operating in a hostile environment. My areas of expertise but not limited to are: 
+## technology stack
 
-- **Anti-Debugging**: To defend against x64dbg and other known debuggers.
-- **Anti-Dump**: For the prevention of dumping binary code.
-- **Anti-VM**: Detection and Prevention from Virtual Machine Environment.
-- **Obfuscation & Encryption**: Use of advanced code and data obfuscation together with encryption/decryption such as AES.
+| category | technologies |
+| -------------------------- | ------------------------------------------------------------------ |
+| programming languages | c++, c#, x86/x64 assembly. |
+| analysis tools | IDA Pro, Ghidra, Binary Ninja, x64dbg, WinDbg, dnspy. |
+| dev tools | Visual Studio, vs code, sublime text. |
+| Build Systems | CMake, MSBuild, make. |
+| platform | windows. |
+| version control | git, github. |
 
-* 🤝  I'm open to collaborating on reverse engineering projects, vulnerability research, malware analysis, developing software protection like anti debugging and anti tampering techniques
+---
 
-### Skills
+## interests
+Low level systems programming.
+Windows Internals/binary analysis/Performance optimization.
+Native tooling/defensive security research/software architecture.
+Reverse engineering education.
 
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
-</p>
+## about
+Student developer who has an interest in low level systems development/binary analysis/defensive security research.
 
+Based in Latvia.
 
-### Socials
+---
 
-<p align="left"> <a href="https://discord.com/users/796780739739385857" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
-
+## contact
+Discord : manualmapped
